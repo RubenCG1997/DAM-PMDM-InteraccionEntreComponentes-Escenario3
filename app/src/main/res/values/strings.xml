@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Escenario3</string>
+    <string name="swc_On">Estudiar informática</string>
+    <string name="elemento1_off">Mates</string>
+    <string name="elemento2_off">Recreo</string>
+    <string name="elemento3_off">Lengua</string>
+    <string name="elemento1_1on">PSP</string>
+    <string name="elemento1_2on">PMDM</string>
+    <string name="elemento1_3on">DI</string>
+    <string name="elemento2_1on">DIW</string>
+    <string name="elemento2_2on">FOL</string>
+    <string name="elemento2_3on">HLC</string>
+    <string-array name="opciones_on">
+        <item>DAM</item>
+        <item>DAW</item>
+    </string-array>
+
+</resources>
