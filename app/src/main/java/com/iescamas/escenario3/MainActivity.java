@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         swc = findViewById(R.id.swc_Onoff);
         sp = findViewById(R.id.sp_opciones);
 
+        sp.setVisibility(View.INVISIBLE);
         swc.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
